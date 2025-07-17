@@ -1,5 +1,4 @@
 import { JetBrains_Mono, Plus_Jakarta_Sans } from "next/font/google";
-import { JetBrains_Mono } from "next/font/google";
 import "../globals.css";
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -12,6 +11,6 @@ const jetBrains = JetBrains_Mono({
   subsets: ["latin"],
 });
 
-export default function reportrLayout({ children }) {
+export default function reportLayout({ children }) {
   return <>{children}</>;
 }

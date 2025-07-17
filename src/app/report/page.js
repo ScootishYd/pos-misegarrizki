@@ -5,7 +5,7 @@ import AsetKeuangan from "@/components/ui/asetKeuangan";
 import TableSelling from "@/components/ui/tableSelling";
 import TopProduct from "@/components/ui/topProduct";
 
-export default function () {
+export default function ReportPage() {
   const data = [
     {
       index: 1,
