@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nama": "Gandum Cakra Kembar",
+    "jumlah": 50,
+    "harga_beli": 55000,
+    "harga_jual": 65000,
+    "image": "/items/gandum-cakra.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 2,
+    "nama": "Gandum Segitiga Biru",
+    "jumlah": 40,
+    "harga_beli": 45000,
+    "harga_jual": 55000,
+    "image": "/items/gandum-segitiga.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 3,
+    "nama": "Telur Ayam Negeri",
+    "jumlah": 300,
+    "harga_beli": 1500,
+    "harga_jual": 2000,
+    "image": "/items/telur.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 4,
+    "nama": "Garam Dapur",
+    "jumlah": 100,
+    "harga_beli": 5000,
+    "harga_jual": 7000,
+    "image": "/items/garam.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 5,
+    "nama": "Bumbu Masak Instan",
+    "jumlah": 80,
+    "harga_beli": 8000,
+    "harga_jual": 12000,
+    "image": "/items/bumbu-masak.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 6,
+    "nama": "Minyak Goreng 2L",
+    "jumlah": 60,
+    "harga_beli": 31000,
+    "harga_jual": 36000,
+    "image": "/items/minyak.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 7,
+    "nama": "Gula Pasir 1kg",
+    "jumlah": 70,
+    "harga_beli": 13000,
+    "harga_jual": 16000,
+    "image": "/items/gula.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 8,
+    "nama": "Susu Kental Manis",
+    "jumlah": 90,
+    "harga_beli": 10500,
+    "harga_jual": 13500,
+    "image": "/items/susu.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 9,
+    "nama": "Kopi Bubuk Sachet",
+    "jumlah": 150,
+    "harga_beli": 2500,
+    "harga_jual": 3500,
+    "image": "/items/kopi.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 10,
+    "nama": "Teh Celup 25 Sachet",
+    "jumlah": 120,
+    "harga_beli": 7000,
+    "harga_jual": 10000,
+    "image": "/items/teh.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 11,
+    "nama": "Beras Premium 5kg",
+    "jumlah": 40,
+    "harga_beli": 65000,
+    "harga_jual": 75000,
+    "image": "/items/beras.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 12,
+    "nama": "Mie Instan 1 Dus",
+    "jumlah": 35,
+    "harga_beli": 110000,
+    "harga_jual": 130000,
+    "image": "/items/mie.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 13,
+    "nama": "Sarden Kaleng",
+    "jumlah": 60,
+    "harga_beli": 9000,
+    "harga_jual": 12000,
+    "image": "/items/sarden.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 14,
+    "nama": "Kecap Manis 600ml",
+    "jumlah": 70,
+    "harga_beli": 12000,
+    "harga_jual": 16000,
+    "image": "/items/kecap.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  },
+  {
+    "id": 15,
+    "nama": "Saos Sambal 300ml",
+    "jumlah": 75,
+    "harga_beli": 10000,
+    "harga_jual": 14000,
+    "image": "/items/saos.jpg",
+    "deskripsi": "Belum ada Deskripsi"
+  }
+]

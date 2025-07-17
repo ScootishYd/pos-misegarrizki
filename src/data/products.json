@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Mie",
+    "price": 6000,
+    "imageSrc": "/products/mie.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Pangsit",
+    "price": 8000,
+    "imageSrc": "/products/pangsit.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Kulit Dimsum",
+    "price": 9000,
+    "imageSrc": "/products/kulitdimsum.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mie Basah",
+    "price": 4000,
+    "imageSrc": "/products/miebasah.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Mie Telor",
+    "price": 8000,
+    "imageSrc": "/products/mietelor.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cheese Stick",
+    "price": 9000,
+    "imageSrc": "/products/cheesestick.jpg"
+  }
+]
