@@ -11,7 +11,7 @@ export default function Navbar() {
 
   const navLinks = [
     { label: "Kasir", href: "/cashier" },
-    { label: "Laporan", href: "/laporan" },
+    { label: "Laporan", href: "/report" },
     { label: "Inventaris", href: "/inventory" },
   ];
 
@@ -52,7 +52,7 @@ export default function Navbar() {
         <div className="flex gap-4">
           <Button asChild>
             <Link
-              href="/login"
+              href="/"
               className="border bg-transparent text-white border-white hover:bg-primary hover:text-secondary delay-100"
             >
               <FaSignOutAlt />

@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import NotaPage from "./NotaPage";
+import NotaPage from "./notaPage";
 
 export default function Page() {
   return (
