@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Link from "next/link";
 
-export default function Login() {
+export default function Register() {
   return (
     <div className="bg-primary h-screen flex items-center justify-center">
       <div className="flex w-1/2 min-h-min rounded-lg shadow-sm overflow-hidden border-2 border-secondary">
@@ -70,7 +70,7 @@ export default function Login() {
             </h2>
             <Button variant="outline" asChild>
               <Link
-                href="/login"
+                href="/"
                 className="bg-transparent hover:bg-primary transition-all px-16"
               >
                 Masuk
