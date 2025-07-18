@@ -47,7 +47,7 @@ export default function Register() {
             <div className="text-center">
               <Button asChild>
                 <Link
-                  href="/login"
+                  href="/"
                   className="px-16 bg-secondary font-bold hover:bg-primary hover:text-secondary hover:border hover:border-secondary transition-all delay-100"
                 >
                   Daftar
